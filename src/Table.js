@@ -5,7 +5,7 @@ class Table extends Component {
       <table>
         <thead>
           <tr>
-            <th>Name</th>
+            <th>Names</th>
             <th>Job</th>
           </tr>
         </thead>
